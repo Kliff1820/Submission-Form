@@ -1,0 +1,5 @@
+{
+  "name": "STR Property Manager",
+  "description": "A property management app for Short-Term Rental businesses to coordinate cleaners and maintenance staff, track issues, and view operational history.",
+  "requestFramePermissions": []
+}
